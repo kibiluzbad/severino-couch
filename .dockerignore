@@ -1,0 +1,9 @@
+.git
+LICENSE
+README.md
+node_modules
+.gitignore
+*.lock
+.db
+components/routes/_*
+.sass-cache/*
